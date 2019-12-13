@@ -1,6 +1,5 @@
 
 
-# def operations
 
 def unsafe?(speed)
   
